@@ -1,0 +1,42 @@
+.hangingindent {
+    padding-left: 20px;
+    text-indent: -22px;
+}
+h1 {
+    color: rgb(124, 10, 121)}
+body {
+    background-color: #e2a5e2;
+}
+b {
+    color: rgb(124, 10, 121)
+}
+.ab1, .ab2 {
+    width: 75%;
+}
+table, th, td, tr {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+th, td, tr {
+    background-color: #96D4D4;
+ }
+
+ nav {
+     float:right;
+ }
+table {
+    width: 75%;
+}
+
+footer {
+    text-align: center;
+    color:  rgb(124, 10, 121);
+}
+caption {
+    text-align: center;
+}
+
+ a {
+    color: rgb(54, 9, 158);
+}
