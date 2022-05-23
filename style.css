@@ -3,7 +3,9 @@
     text-indent: -22px;
 }
 h1 {
-    color: rgb(124, 10, 121)}
+    color: rgb(124, 10, 121);
+    text-align: center;
+}
 body {
     background-color: #e2a5e2;
 }
@@ -16,6 +18,12 @@ b {
 table, th, td, tr {
     border: 1px solid white;
     border-collapse: collapse;
+}
+.band_hers {
+   display: block;
+    margin-left: auto;
+   margin-right: auto;
+   width: 50%;
 }
 
 th, td, tr {
